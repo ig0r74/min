@@ -9,6 +9,7 @@ a:hover,a:active, a:focus {color: #01476f;transition: color 0.2s linear;}
 a.btn:hover,a.btn:active,a.btn:focus {color: white}
 
 #phone {float: right;height:100px;line-height:100px;font-size:25px;font-style:italic;}
+img#logo {float: left}
 
 .shadow {
 -webkit-box-shadow: 2px 2px 9px 0px rgba(50, 50, 50, 0.54);
