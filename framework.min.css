@@ -57,7 +57,7 @@ color: #fff;
 @media screen and (max-width: 870px) {
 .hidden-xs {display: none!important;}
 .hidden-xl {display: block!important;}
-body {overflow-x: hidden;}
+html,body {overflow-x: hidden;}
 .col.c3.off-side {width: 60%}
 .row-offcanvas {
 position: relative;
